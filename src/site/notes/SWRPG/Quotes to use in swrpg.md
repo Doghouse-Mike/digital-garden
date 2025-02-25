@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/swrpg/quotes-to-use-in-swrpg/","title":"Quotes to Use in Swrpg","created":"2024-01-14T17:58:36.923+00:00","updated":"2025-02-25T21:44:39.693+00:00"}
+{"dg-publish":true,"permalink":"/swrpg/quotes-to-use-in-swrpg/","title":"Quotes to Use in Swrpg","created":"2024-01-14T17:58:36.923+00:00","updated":"2025-02-25T21:45:08.244+00:00"}
 ---
 
 
