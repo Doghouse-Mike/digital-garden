@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/swrpg/swrpg-session-2/","title":"SWRPG Session 2","created":"2023-07-20T19:09:15.719+01:00","updated":"2025-02-25T22:17:45.020+00:00"}
+{"dg-publish":true,"permalink":"/swrpg/swrpg-session-2/","title":"SWRPG Session 2","created":"2023-07-20T19:09:15.719+01:00","updated":"2025-02-25T22:17:58.219+00:00"}
 ---
 
 
