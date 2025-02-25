@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/swrpg/quotes-to-use-in-swrpg/"}
+{"dg-publish":true,"permalink":"/swrpg/quotes-to-use-in-swrpg/","tags":["gardenEntry"]}
 ---
 
 # Quotes to Use in Swrpg
