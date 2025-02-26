@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/photos/stillbust-10th-anniversary-show/","title":"Stillbust 10th Anniversary Show","created":"2025-02-26T08:14:58.459+00:00","updated":"2025-02-26T08:20:19.382+00:00"}
+{"dg-publish":true,"permalink":"/photos/stillbust-10th-anniversary-show/","title":"Stillbust 10th Anniversary Show","created":"2025-02-26T08:14:58.459+00:00","updated":"2025-02-26T09:35:25.372+00:00"}
 ---
 
 
@@ -122,3 +122,5 @@
 ![Pasted image 20250226081615.jpg](/img/user/Attachments/Pasted%20image%2020250226081615.jpg)
 
 ![Pasted image 20250226081616.jpg](/img/user/Attachments/Pasted%20image%2020250226081616.jpg)
+
+#gigs #photos 
