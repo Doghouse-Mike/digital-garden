@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/photos/koffin-kats-cowboy-and-the-corpse-at-the-louisiana/","title":"Koffin Kats, Cowboy and the Corpse at The Louisiana","created":"2022-04-12T13:41:37.000+01:00","updated":"2025-02-26T08:24:20.499+00:00"}
+{"dg-publish":true,"permalink":"/photos/koffin-kats-cowboy-and-the-corpse-at-the-louisiana/","title":"Koffin Kats, Cowboy and the Corpse at The Louisiana","created":"2022-04-12T13:41:37.000+01:00","updated":"2025-02-26T17:04:39.785+00:00"}
 ---
 
 
